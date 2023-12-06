@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T11:34:57.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="0uqx_S7XE0MAE35EddyG" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T13:31:53.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="G0bxDei4ApMPP4DaKSeG" version="22.1.5" type="github">
   <diagram name="第 1 页" id="Y4cV6P7_scY6otGIJyVa">
     <mxGraphModel dx="1148" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="OsITGEEVRBnsbcbWpSpn-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;持续集成、部署&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OsITGEEVRBnsbcbWpSpn-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" vertex="1" parent="1">
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#FFFFFF;fontColor=#333333;strokeColor=default;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="880" height="440" as="geometry" />
         </mxCell>
         <mxCell id="OsITGEEVRBnsbcbWpSpn-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -92,13 +92,49 @@
           <mxGeometry x="350" y="585" width="260" height="330" as="geometry" />
         </mxCell>
         <mxCell id="OsITGEEVRBnsbcbWpSpn-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;框架层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="200" height="60" as="geometry" />
+          <mxGeometry x="370" y="600" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsITGEEVRBnsbcbWpSpn-27" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;工程化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="200" height="60" as="geometry" />
+          <mxGeometry x="95" y="600" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsITGEEVRBnsbcbWpSpn-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;构建层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="600" width="200" height="60" as="geometry" />
+          <mxGeometry x="670" y="600" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;代码规范&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-30" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;npm包构建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-31" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;单元测试&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="770" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-32" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;发布部署&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;配置解析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;约定式路由&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="680" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主题开发&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SSR/SSG&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Vite插件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Babel插件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MDX解析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="770" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsITGEEVRBnsbcbWpSpn-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="770" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
