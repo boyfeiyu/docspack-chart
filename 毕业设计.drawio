@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T03:05:11.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="r_lrxrHeHdYPMyNH7_C1" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T03:18:42.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="KAQ4WGnk4LK_M7ZHzfQf" version="22.1.5" type="github">
   <diagram name="第 1 页" id="Y4cV6P7_scY6otGIJyVa">
     <mxGraphModel dx="792" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="zg1aFvB8Wxaud1rQypKM-13" value="产物压缩、语法降级、Tree Shaking、&lt;br&gt;代码混淆" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c0e7c8;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg1aFvB8Wxaud1rQypKM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
